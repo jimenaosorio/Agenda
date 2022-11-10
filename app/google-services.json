@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "263203525524",
+    "firebase_url": "https://agenda-9fa33-default-rtdb.firebaseio.com",
+    "project_id": "agenda-9fa33",
+    "storage_bucket": "agenda-9fa33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263203525524:android:fd5751f0ab92b1cdb7f581",
+        "android_client_info": {
+          "package_name": "cl.ejemplos.agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263203525524-9fimibavbki2jbnnm193pc1n52f5hacq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRZZ_34K9i9IYuD7mmGmBMrXblo6coZlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263203525524-9fimibavbki2jbnnm193pc1n52f5hacq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
